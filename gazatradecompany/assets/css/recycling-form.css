@@ -1,0 +1,101 @@
+.recycling-form .title
+{
+	text-align: center;
+	font-size: 35px;
+	font-family: arial;
+	color: #0083C9;
+	background: #fff;
+}
+.recycling-form .line1
+{
+	border: 1px #999 solid;
+	width: 30%;
+	margin-bottom: 7%;
+}
+.recycling-form ul li a 
+{
+	color :#0083C9;
+	font-size: 20px;
+}
+.recycling-form ul
+{
+	margin-bottom: 3%;
+}
+.recycling-form label
+{
+	font-size: 16px;
+	font-family: arial;
+	display: block;
+	margin-bottom: 1%;
+}
+.recycling-form input
+{
+	height: 35px;
+	width: 100%;
+	padding-left: 15px;
+	border-radius: 3px;
+	border:none;
+	border: 1px solid #0083C9;
+	margin-bottom: 2%;
+}
+.recycling-form .dropdown
+{
+	margin-bottom: 2%;
+	height: 35px;
+	width: 60%;
+	padding-left: 15px;
+	border: 1px solid #0083C9;
+	border-radius: 3px;
+}
+.recycling-form textarea
+{
+	height: 110px;
+	width: 100%;
+	border-radius: 3px;
+	border: 1px solid #0083C9;
+	padding-left: 15px;
+	margin-bottom: 2%;
+	resize: none;
+}
+.recycling-form .note
+{
+	font-size: 14px;
+	width: 100%;
+}
+.recycling-form .right-img
+{
+	box-shadow: 2px 3px 3px #888;
+	border-radius: 3px;
+}
+.recycling-form .choose
+{
+	font-family: arial;
+	font-size:22px;
+	margin-top: 8%;
+	margin-bottom: 3%;
+}
+.recycling-form .reciving-way
+{
+	height: 50px;
+	width: 60px;
+	display: inline-block;
+	margin-right: 3%;
+}
+.recycling-form .submit
+{
+	margin-top: 5%;
+	height: 40px;
+	width: 35%;
+	background-color: #0083C9;
+	color:#fff;
+	box-shadow: 2px 2px 2px #888;
+	transition: 0.3s;
+	display: block;
+	margin-left: 60%;
+	font-family: arial;
+	font-size:18px;
+}
+.recycling-form .submit:hover
+{
+	box-shadow: none;
+}
